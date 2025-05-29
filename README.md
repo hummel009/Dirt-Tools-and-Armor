@@ -21,7 +21,7 @@ Enjoy the dirt!
 
 [Rinth]: https://modrinth.com/mod/dirt-tools-and-armor
 
-[Logo]: dirt-tools-and-armor.jpg
+[Logo]: readme.jpg
 
 [Badge License]: https://img.shields.io/badge/License-GPL_3-0167a0.svg?style=for-the-badge&labelColor=blue
 
