@@ -1,25 +1,15 @@
 <div align = "center">
 
-<br>
-
-![Logo]
-
-<br>
-
 [![Badge License]][License]
 [![Button Curse]][Curse]
 [![Button Rinth]][Rinth]
-
-<br>
-
-</div>
-
-<div align = "center">
 
 Dirt Tools and Armor mod is a joke mod that adds armor, weapons, and tools made of dirt to the game.
 Of course, they are as powerful as diamond ones!
 With this mod, any of your survival will turn into a YouTube show in the style of «NOOB vs. PRO».
 Enjoy the dirt!
+
+![Logo]
 
 </div>
 
@@ -31,7 +21,7 @@ Enjoy the dirt!
 
 [Rinth]: https://modrinth.com/mod/dirt-tools-and-armor
 
-[Logo]: appForge/src/main/resources/logo.png
+[Logo]: dirt-tools-and-armor.jpg
 
 [Badge License]: https://img.shields.io/badge/License-GPL_3-0167a0.svg?style=for-the-badge&labelColor=blue
 
