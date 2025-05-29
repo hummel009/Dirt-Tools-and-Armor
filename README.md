@@ -18,7 +18,7 @@
 
 Dirt Tools and Armor mod is a joke mod that adds armor, weapons, and tools made of dirt to the game.
 Of course, they are as durable as diamond ones!
-With this mod, any of your survival will turn into a YouTube show in the style of "NOOB vs. PRO".
+With this mod, any of your survival will turn into a YouTube show in the style of «NOOB vs. PRO».
 Enjoy the dirt!
 
 </div>
