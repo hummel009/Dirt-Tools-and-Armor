@@ -16,9 +16,10 @@
 
 <div align = "center">
 
-Мод «Dirt Tools and Armor» – шуточный мод, который добавляет в игру броню, оружие и инструменты из земли.
-Разумеется, по прочности они равны алмазным! С этим модом любое ваше выживание превратится в YouTube-шоу в
-стиле «НУБ против ПРО». Добывайте землю с удовольствием!
+Dirt Tools and Armor mod is a joke mod that adds armor, weapons, and tools made of dirt to the game.
+Of course, they are as durable as diamond ones!
+With this mod, any of your survival will turn into a YouTube show in the style of "NOOB vs. PRO".
+Enjoy the dirt!
 
 </div>
 
